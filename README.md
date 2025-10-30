@@ -1,4 +1,4 @@
-# App
+# SIMULADOR DE NAVEGADOR WEB EN CONSOLA
 
 Proyecto Java sencillo realizado en clase de TI
 
